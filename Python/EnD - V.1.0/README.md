@@ -1,4 +1,4 @@
- # RTSoft (RT) - Encrypt And Decrypt String (With Odd & Even)
+ # RTSoft (RT) - EnD (With Odd & Even)
   <b>RTSoft Team</b><br>
   Created by : RasyidMF<br>
   Language used : Python 3.7<br>
