@@ -1,0 +1,27 @@
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\bin\Debug\Netsh.exe
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\bin\Debug\Netsh.pdb
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\bin\Debug\Netsh.xml
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.Form1.resources
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.Resources.resources
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.vbproj.GenerateResource.Cache
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.exe
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.xml
+C:\Users\RASYID\AppData\Local\Temporary Projects\Netsh\obj\x86\Debug\Netsh.pdb
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.exe
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.xml
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.pdb
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.exe
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.pdb
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.xml
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.Home.resources
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.Resources.resources
+C:\Users\RASYID\Documents\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.vbproj.GenerateResource.Cache
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.exe
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.xml
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.pdb
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.exe
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.pdb
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\bin\Debug\Netsh.xml
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.Home.resources
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.Resources.resources
+D:\Code\Project RasyidMF\Visual Studio 2010\Projects\Netsh\Netsh\obj\x86\Debug\Netsh.vbproj.GenerateResource.Cache
